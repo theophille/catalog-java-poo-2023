@@ -1,0 +1,139 @@
+Teacher
+Florin Pop
+yAtEkh
+
+Teacher
+Oduba Steanu
+Xgqq^r
+
+Assistant
+Marian Marin
+J6QxMr
+
+Assistant
+Eusebiu Pietricica
+AE2xD9
+
+Assistant
+Mara Evantai
+YDYgfG
+
+Assistant
+Georgiana Florinela
+BGdD3G
+
+Assistant
+Marianul Fericitul
+FL8vF=
+
+Assistant
+Elisabeta Intaia
+Wc4f&V
+
+Student
+Alexandra Popescu
+GzstBN
+
+Student
+Marius Suparatul
+8Rj6!P
+
+Student
+Ana Buna
+vv=b&T
+
+Student
+Ana Rea
+bBQvPz
+
+Student
+Anabella Ancuta
+qnkRRL
+
+Student
+Anastasiu Anutul
+BqTwf5
+
+Student
+Brandusa Georgescu
+U$#a!v
+
+Student
+Mirabela Marcela
+5%wgCJ
+
+Student
+Mirciulica Smecherul
+9yXnqP
+
+Parent
+Florin Popescu
+Gp9FEZ
+
+Parent
+Maria Popescu
+NSzkhT
+
+Parent
+Alexander Suparatul
+P2KXsZ
+
+Parent
+Geanina Suparatul
+egcFma
+
+Parent
+Tata Buna
+KYn7vY
+
+Parent
+Mama Buna
+eC5YPh
+
+Parent
+Tati Rea
+GZrHNd
+
+Parent
+Mami Rea
+xVbvMn
+
+Parent
+Alex Ancuta
+3fTdrj
+
+Parent
+Marabella Ancuta
+SqaAbJ
+
+Parent
+Marius Anutul
+TwMBpD
+
+Parent
+Elisa Anutul
+saQEY9
+
+Parent
+Liviu Georgescu
+Ra56X3
+
+Parent
+Miriam Greorgescu
+dVqjL6
+
+Parent
+Father Marcela
+CSTCHT
+
+Parent
+Mother Marcela
+X6D7eJ
+
+Parent
+Tatitul Smecherul
+Ggsdkk
+
+Parent
+Mamitul Smecherul
+AV2Czs

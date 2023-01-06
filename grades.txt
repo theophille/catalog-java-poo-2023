@@ -1,0 +1,59 @@
+2
+Metode numerice
+9
+Alexandra Popescu
+0.0
+0.0
+Marius Suparatul
+4.0
+0.0
+Ana Buna
+5.0
+4.0
+Ana Rea
+4.0
+5.0
+Anabella Ancuta
+3.0
+0.0
+Anastasiu Anutul
+0.0
+0.0
+Brandusa Georgescu
+0.0
+0.0
+Mirabela Marcela
+5.0
+4.7
+Mirciulica Smecherul
+0.0
+0.0
+POO
+9
+Alexandra Popescu
+0.0
+0.0
+Marius Suparatul
+0.0
+0.0
+Ana Buna
+5.0
+0.0
+Ana Rea
+6.0
+0.0
+Anabella Ancuta
+6.0
+0.0
+Anastasiu Anutul
+4.0
+0.0
+Brandusa Georgescu
+0.0
+0.0
+Mirabela Marcela
+0.0
+0.0
+Mirciulica Smecherul
+0.0
+0.0

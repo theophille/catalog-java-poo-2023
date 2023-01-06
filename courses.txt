@@ -1,0 +1,81 @@
+2
+Full
+Metode numerice
+Florin Pop
+3
+321CC
+Marian Marin
+3
+Anabella Ancuta
+Marabella Ancuta
+Alex Ancuta
+Ana Buna
+Mama Buna
+Tata Buna
+Ana Rea
+Mami Rea
+Tati Rea
+322CC
+Eusebiu Pietricica
+4
+Brandusa Georgescu
+Miriam Greorgescu
+Liviu Georgescu
+Mirciulica Smecherul
+Mamitul Smecherul
+Tatitul Smecherul
+Anastasiu Anutul
+Elisa Anutul
+Marius Anutul
+Mirabela Marcela
+Mother Marcela
+Father Marcela
+323CC
+Mara Evantai
+2
+Marius Suparatul
+Geanina Suparatul
+Alexander Suparatul
+Alexandra Popescu
+Maria Popescu
+Florin Popescu
+Partial
+POO
+Oduba Steanu
+3
+321CC
+Georgiana Florinela
+3
+Anabella Ancuta
+Marabella Ancuta
+Alex Ancuta
+Ana Buna
+Mama Buna
+Tata Buna
+Ana Rea
+Mami Rea
+Tati Rea
+322CC
+Marianul Fericitul
+4
+Brandusa Georgescu
+Miriam Georgescu
+Liviu Georgescu
+Mirciulica Smecherul
+Mamitul Smecherul
+Tatitul Smecherul
+Anastasiu Anutul
+Elisa Anutul
+Marius Anutul
+Mirabela Marcela
+Mother Marcela
+Father Marcela
+323CC
+Elisabeta Intaia
+2
+Marius Suparatul
+Geanina Suparatul
+Alexander Suparatul
+Alexandra Popescu
+Maria Popescu
+Florin Popescu
